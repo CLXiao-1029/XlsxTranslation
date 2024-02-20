@@ -1,8 +1,17 @@
 # XlsxTranslation
-该软件是由 [`Xlsx2Lua`](https://github.com/CLXiao-1029/Xlsx2Lua) 的实时翻译功能拆分而来的。
+该软件是由 [Xlsx2Lua](https://github.com/CLXiao-1029/Xlsx2Lua) 的实时翻译功能拆分而来的。
+
 软件中提供了翻译转表功能，建议将软件放在同 `Xlsx2Lua` 软件的目录下。
+
 软件会根据传入的参数 `--` 来决定是否读取配置，如果配置不存在时会自动创建。
 
+# Release 最新版本
+查看最新的[Release](https://github.com/CLXiao-1029/XlsxTranslation/releases)版本
+
+[Release](https://github.com/CLXiao-1029/XlsxTranslation/releases)
+
+## .Net 版本
+>`>= v.7.0.201`
 
 # 支持库引用
 | 支持库名 | 版本 | 项目地址 |
@@ -85,9 +94,12 @@ pause
   }
 }
 ```
+# 翻译API
+本软件采用的`百度翻译`[官网](https://fanyi.baidu.com/)，[翻译API](https://fanyi-api.baidu.com/api/trans/vip/translate)
+>`http://api.fanyi.baidu.com/api/trans/vip/translate?q=`content`&from=`zh`&to=`en`&appid=`APPID`&salt=`salt`&sign=`sign 
 
 # Excel表结构
-#### 结构说明
+##### 结构说明
 1. 读取第一个工作簿（sheet）中的第一列作为翻译源，后几列作为目标源
 2. 翻译表的文件名以`Translate`开头，默认的翻译表名`TranslateMain`
 
