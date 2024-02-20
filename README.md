@@ -93,11 +93,11 @@ pause
 
 #### 示例文件：
 
-`TestExample\总表模式\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/Xlsx2Lua/blob/master/TestExample/%E5%88%86%E8%A1%A8%E6%A8%A1%E5%BC%8F/Config/TranslateMain.xlsx)
+`TestExample\总表模式\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/XlsxTranslation/blob/master/TestExample/%E5%88%86%E8%A1%A8%E6%A8%A1%E5%BC%8F/Config/TranslateMain.xlsx)
 
-`TestExample\分表模式\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/Xlsx2Lua/blob/master/TestExample/%E5%88%86%E8%A1%A8%E6%A8%A1%E5%BC%8F/Config/TranslateMain.xlsx)
+`TestExample\分表模式\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/XlsxTranslation/blob/master/TestExample/%E6%80%BB%E8%A1%A8%E6%A8%A1%E5%BC%8F/Config/TranslateMain.xlsx)
 
-`TestExample\翻译演示\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/Xlsx2Lua/blob/master/TestExample/%E5%88%86%E8%A1%A8%E6%A8%A1%E5%BC%8F/Config/TranslateMain.xlsx)
+`TestExample\翻译演示\Config\TranslateMain.xlsx` [打开](https://github.com/CLXiao-1029/XlsxTranslation/blob/1.0.0/TestExample/%E7%BF%BB%E8%AF%91%E6%BC%94%E7%A4%BA/Config/TranslateMain.xlsx)
 
 
 |    多语言Key    |  中文   | 英语 | 繁体中文 |
